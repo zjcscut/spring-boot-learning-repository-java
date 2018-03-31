@@ -1,0 +1,18 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <parent>
+        <artifactId>spring-boot-learning-repository-java</artifactId>
+        <groupId>club.throwable</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+    <artifactId>ch1-helloworld</artifactId>
+    <packaging>jar</packaging>
+    <name>ch1-helloworld</name>
+    <dependencies>
+
+    </dependencies>
+    <build>
+        <finalName>ch1-helloworld</finalName>
+    </build>
+</project>
